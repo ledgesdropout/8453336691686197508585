@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "442361426049",
+    "project_id": "app-build-4f100",
+    "storage_bucket": "app-build-4f100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442361426049:android:3c7bcfd86c99618b1f1d80",
+        "android_client_info": {
+          "package_name": "com.pasticair.pinjamanguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442361426049-feli5qci7pr89eulajsmlnou6iomaiud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSwvOlqBiYSuuW9HKN7PyXGaiqFTcQsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442361426049-feli5qci7pr89eulajsmlnou6iomaiud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442361426049:android:9eebbcd215bbead71f1d80",
+        "android_client_info": {
+          "package_name": "com.transisi.holiday.katalog.view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442361426049-feli5qci7pr89eulajsmlnou6iomaiud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSwvOlqBiYSuuW9HKN7PyXGaiqFTcQsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442361426049-feli5qci7pr89eulajsmlnou6iomaiud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
